@@ -1,0 +1,15 @@
+{
+  "config": {
+    "default": "nl"
+  },
+  "language": {
+    "en": {
+      "#demo": "Hello World",
+      "#pageTitle": "Demo Page"
+    },
+    "nl": {
+      "#demo": "Hallo Iedereen",
+      "#pageTitle": "Demo Pagina"
+    }
+  }
+}
