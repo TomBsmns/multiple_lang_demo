@@ -5,11 +5,11 @@
   "language": {
     "en": {
       "#demo": "Hello World",
-      "#pageTitle": "Demo Page"
+      "title": "Demo Page"
     },
     "nl": {
       "#demo": "Hallo Iedereen",
-      "#pageTitle": "Demo Pagina"
+      "title": "Demo Pagina"
     }
   }
 }

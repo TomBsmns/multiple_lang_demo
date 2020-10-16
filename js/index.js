@@ -4,5 +4,6 @@ It's important to only have one javascript file linked to a html page which cont
 otherwise this results in buggy issues.
  */
 $(document).ready(function(){
+    // localStorage.setItem('MultiLanguage', 'en');
     pageTranslation.initialize();
 })
